@@ -1,4 +1,4 @@
-# connectfour
+# ConnectFour
 
 Connect Four is a variation of tic-tac-toe played on a 6x7 rectangular board.
 
